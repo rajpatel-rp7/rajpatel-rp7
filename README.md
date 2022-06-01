@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -77,6 +78,6 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Raj Patels' Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajpatel-rp7&custom_title=Raj%20Patels%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Raj Patels' Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajpatel-rp7&custom_title=Raj%20Patels%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 
