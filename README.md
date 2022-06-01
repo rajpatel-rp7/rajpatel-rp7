@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 
 <h1 align="center">
-  <b>RajPatel Trips</b>
+  <b>RajPatel's</b>
 </h1>
 
 Heya! I'm Raj Patel, a developer currently living in Gandhinagar, Gujarat, India. I'm software engineer in IT company, 
@@ -39,7 +39,7 @@ and developing my python skill through implementing small ideas.
 </p>
 
 ```python
-class RajTrips():
+class RajPatel():
     
   def __init__(self):
     self.name = "Raj Patel";
@@ -77,7 +77,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Raj Patel's Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajpatel&custom_title=Raj%20Patel's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+[![Raj Patel's Activity Graph]([https://activity-graph.herokuapp.com/graph?username=rajpatel&custom_title=Raj%20Patel's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545](https://activity-graph.herokuapp.com/graph?username=rajpatel-rp7&custom_title=Raj%20Patels%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545))]
 
 
 
